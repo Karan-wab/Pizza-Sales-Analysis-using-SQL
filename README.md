@@ -1,1 +1,2 @@
 # Pizza-Sales-Analysis-using-SQL
+The project involves analyzing pizza sales data using SQL to extract key business insights. It covers order volume, revenue generation, popular pizza types and sizes, category-wise trends, and time-based sales patterns. Advanced metrics like revenue contribution and cumulative growth are also calculated. The goal is to support data-driven decisions for a pizza business.
